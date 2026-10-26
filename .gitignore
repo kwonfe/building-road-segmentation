@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 에포크마다 저장한 중간 가중치. best/last 체크포인트는 포함한다.
+DeepLabV3Plus/out/**/epoch*_checkpoint.pth

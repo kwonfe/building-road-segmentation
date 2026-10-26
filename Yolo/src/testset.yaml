@@ -1,0 +1,6 @@
+path:
+train: dataset/Test_set/train
+val: dataset/Test_set/val
+
+nc: 2
+names: ["building", "road"]

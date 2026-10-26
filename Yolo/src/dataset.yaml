@@ -1,0 +1,8 @@
+path: #C:/Users/dlxlr/Desktop/DataSet
+train: "dataset/train"
+val: "dataset/val"
+
+nc: 2 # 클래스 수
+
+# 클래스 목록
+names: ["building", "road"]
